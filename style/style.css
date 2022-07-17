@@ -7,10 +7,12 @@ body{
 }
 
 .img-thumbnail{
-    background-color: #00a78e;
     border: none;
 }
 
+#header,#ap, #li, #fc,#gh,#lk{
+    background-color: #00a78e;
+}
 
 
 .container{
@@ -18,9 +20,8 @@ body{
     justify-content: space-between;
     align-items: center;
 }
-.row{
-    background-color: #00a78e;
-}
+
+
 
 #ap{
     height: 75px;
