@@ -48,3 +48,33 @@ body{
     background-color: bisque;
     border-radius: 20px;
 }
+
+#gim{
+    
+    margin-left: 6%;
+    width: 160px;
+    border-radius: 100%;
+    margin-top: -95px;
+}
+
+h1{
+    margin-left: 1%;
+}
+
+li{
+    list-style: none;
+}
+
+#desa,#lunaj{
+    background-color: bisque;
+}
+
+#desa{
+    width: 150px;
+    height: 75px;
+}
+
+#lunaj{
+    width: 120px;
+    height: 120px;
+}
