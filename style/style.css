@@ -1,0 +1,50 @@
+body{
+    background-color: bisque;
+}
+.row{
+    max-width: 99%;
+    margin-left: 7px;
+}
+
+.img-thumbnail{
+    background-color: #00a78e;
+    border: none;
+}
+
+
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.row{
+    background-color: #00a78e;
+}
+
+#ap{
+    height: 75px;
+    width: 120px;
+}
+
+#li{
+    height: 75px;
+    width: 200px;
+}
+
+#fc,#gh,#lk{
+    width: 68px;
+    height: 70px;
+}
+
+#fc,#gh,#lk,.btn{
+    margin-right: 0.5rem;
+}
+
+#verde{
+    width: 100%;
+    height: 400px;
+    padding-top: 0;
+    background-color: bisque;
+    border-radius: 20px;
+}
