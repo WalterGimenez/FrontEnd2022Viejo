@@ -60,15 +60,13 @@ body{
     margin-top: -95px;
 }
 
-h1{
-    margin-left: 1%;
-}
+
 
 li{
     list-style: none;
 }
 
-#desa,#lunaj{
+#desa,#lunaj,.card{
     background-color: bisque;
   
 }
@@ -91,5 +89,17 @@ h3{
 }
 
 #colunaj,#desa{
-    text-align: center;
+    text-align: right;
+}
+
+#titacer{
+    font-weight: bold;
+}
+
+#h4edu,#h3edu,#h2edu{
+    display: inline;
+}
+
+.card{
+    border-style: none;
 }
