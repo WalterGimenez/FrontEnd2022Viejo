@@ -1,6 +1,7 @@
 body{
     background-color: bisque;
     font-family: 'Roboto', sans-serif;
+    font-weight: bold;
 }
 .row{
     max-width: 99%;
@@ -116,3 +117,49 @@ h3{
     display: flex;
     flex: 1 1 auto;
   }
+
+p{
+    margin-bottom: 0;
+}  
+  /*progress bar configuración*/
+
+  .badge{
+
+	font-size: 25px;
+	font-weight: 200;
+}
+
+.badge i {
+
+	font-size: 20px;
+	font-weight: 200;
+}
+
+.about-rating{
+
+	font-size: 15px;
+	font-weight: 500;
+	margin-top: 10px;
+}
+
+.total-ratings{
+
+	font-size: 12px;
+
+}
+
+.bg-custom{
+
+	background-color: #b7dd29 !important;
+}
+
+.progress{
+
+	margin-bottom:10px;
+
+}
+
+.progress-bar{
+    color: black;
+    font-weight: bold;
+}
