@@ -84,6 +84,14 @@ li{
     margin-right: auto;
 }
 
+#lts{
+    width: 80px;
+    height: 70px;
+    margin-left: 0;
+    margin-right: auto;
+}
+
+
 h3{
     margin-top: 25px;
 }
@@ -103,3 +111,8 @@ h3{
 .card{
     border-style: none;
 }
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+  }
