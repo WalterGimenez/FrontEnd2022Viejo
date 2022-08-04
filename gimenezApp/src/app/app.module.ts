@@ -12,7 +12,7 @@ import { ExperienceComponent } from './components/experience/experience.componen
 import { ProyectComponent } from './components/proyect/proyect.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { SkillComponent } from './components/skill/skill.component';
-import { ImageComponent } from './components/image/image.component';
+
 
 @NgModule({
   declarations: [
@@ -25,8 +25,7 @@ import { ImageComponent } from './components/image/image.component';
     ExperienceComponent,
     ProyectComponent,
     FooterComponent,
-    SkillComponent,
-    ImageComponent
+    SkillComponent
   ],
   imports: [
     BrowserModule,
