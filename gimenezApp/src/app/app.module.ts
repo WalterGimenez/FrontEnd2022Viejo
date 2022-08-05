@@ -12,6 +12,7 @@ import { ExperienceComponent } from './components/experience/experience.componen
 import { ProyectComponent } from './components/proyect/proyect.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { SkillComponent } from './components/skill/skill.component';
+import { HomeComponent } from './components/home/home.component';
 
 
 @NgModule({
@@ -25,7 +26,8 @@ import { SkillComponent } from './components/skill/skill.component';
     ExperienceComponent,
     ProyectComponent,
     FooterComponent,
-    SkillComponent
+    SkillComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
